@@ -1,0 +1,17 @@
+img{
+border-radius:50%;
+margin:auto;
+display:block;
+}
+h1{
+color:red;
+text-align:center
+}
+p{
+color:black;
+font-family:Andalus;
+font-size: 30px
+}
+body{
+background-image:url("neko.jpg")
+}
